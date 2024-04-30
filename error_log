@@ -1,0 +1,2 @@
+[28-Dec-2022 09:31:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/hvn5w7oozbmu/public_html/leads.php on line 8
+[28-Dec-2022 09:55:08 UTC] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/hvn5w7oozbmu/public_html/leads.php on line 34
